@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBLesson8_1_Fedotov_P_S", "GBLesson8_ch1_Fedotov_P_S\GBLesson8_1_Fedotov_P_S.csproj", "{564942AD-F70B-488E-80FD-5EA77CE1C93A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564942AD-F70B-488E-80FD-5EA77CE1C93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564942AD-F70B-488E-80FD-5EA77CE1C93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564942AD-F70B-488E-80FD-5EA77CE1C93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564942AD-F70B-488E-80FD-5EA77CE1C93A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3DCF7C-5799-45C6-8CFA-0F82609660B4}
+	EndGlobalSection
+EndGlobal

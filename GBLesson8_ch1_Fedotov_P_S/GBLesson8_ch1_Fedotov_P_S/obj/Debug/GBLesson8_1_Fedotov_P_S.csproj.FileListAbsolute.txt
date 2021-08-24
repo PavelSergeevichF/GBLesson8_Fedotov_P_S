@@ -1,0 +1,7 @@
+D:\Архив\IT\GB\GBLesson8_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\bin\Debug\GBLesson8_ch1_Fedotov_P_S.exe.config
+D:\Архив\IT\GB\GBLesson8_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\bin\Debug\GBLesson8_ch1_Fedotov_P_S.exe
+D:\Архив\IT\GB\GBLesson8_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\bin\Debug\GBLesson8_ch1_Fedotov_P_S.pdb
+D:\Архив\IT\GB\GBLesson8_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\obj\Debug\GBLesson8_1_Fedotov_P_S.csproj.AssemblyReference.cache
+D:\Архив\IT\GB\GBLesson8_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\obj\Debug\GBLesson8_1_Fedotov_P_S.csproj.CoreCompileInputs.cache
+D:\Архив\IT\GB\GBLesson8_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\obj\Debug\GBLesson8_ch1_Fedotov_P_S.exe
+D:\Архив\IT\GB\GBLesson8_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\GBLesson8_ch1_Fedotov_P_S\obj\Debug\GBLesson8_ch1_Fedotov_P_S.pdb
